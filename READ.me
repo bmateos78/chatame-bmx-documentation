@@ -1,0 +1,1 @@
+Hi, this is the project to adapt bMx documentation to a suitable format for ChatAEM chatbot
