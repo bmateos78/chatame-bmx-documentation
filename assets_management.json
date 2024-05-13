@@ -1,1 +1,77 @@
-<name></name>
+{
+    "Name": "Assets Management",
+    "Keywords": ["Assets","Image","Video","Publishing"],
+    "Text": "Assets displayed on e-media.biomerieux.com are stored in the bioMérieux DAM in the AEM “assets” space.
+
+Asset’s Lifecycle
+
+A. Upload an Asset
+
+    Process for Document and Images
+        To upload an asset in the Asset portal, you need to:
+            Upload the asset
+            Let the asset be processed by AEM
+            Edit the metadata and tags in the asset properties
+            Publish the asset
+            Consult the asset on e-media-biomerieux.com
+            Add a new asset on the DAM
+            Publish the asset
+            Move the asset from one folder to another
+            Edit properties
+            Checkout an asset (to lock it in)
+            Share an asset
+            Download an asset
+            Consult the asset timeline
+
+Steps to Upload an Asset:
+
+    Go on AEM and click on Asset.
+    Click on files.
+    Click on Biomerieux DAM.
+    Select the appropriate folder between:
+        Clinical
+        Corporate
+        Industry
+    Once you are in the correct folder, click on create or drag and drop the asset directly.
+    If you have clicked on “create”, you need to:
+        Click on files
+        Select the asset in your system
+        Rename the asset or leave it as it is but don’t forget to let the format extension (.jpg, .pdf…) and click on “upload”.
+
+After Uploading:
+
+    Normally, AEM will upload the asset and its metadata; during this moment, the asset is under “processing”.
+    You have to wait a few minutes, and the “new” notification will be displayed.
+    Once the asset has the “new” notification, you need to edit the asset properties.
+
+Process for Videos:
+
+    Videos have to be uploaded in dynamic folders.
+        Create a new folder.
+        Select the folder and go on the folder properties.
+        Go on the 3rd tab “dynamic media processing” and select “adaptive encoding video” for the video profile name and click on “save and close”.
+        In this folder: click on create and then select the video in your computer.
+        And don’t forget to publish the asset thanks quick publish or manage publication.
+
+B. Edit the Asset Properties
+
+    Once an asset is in the DAM, you have to edit the requisite data in the properties.
+    Until the mandatory fields aren’t informed, a red label is attached to the asset.
+
+Video Thumbnail Editing:
+
+    Select the video and click on “properties”.
+    Click on “change thumbnail”.
+    Click on “Select the frame from the video” or select a picture thanks “select the thumbnail from assets”.
+    Click on “save change”.
+    Click on “save & close”.
+    Select the asset and click on publish the asset thanks “manage publication”.
+
+D. Publish an Asset
+
+    To publish an asset, you have two possibilities:
+        Thanks “quick publish”.
+        Thanks “manage publication”.
+    "
+
+}
